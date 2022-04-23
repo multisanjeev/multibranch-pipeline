@@ -1,7 +1,7 @@
 pipeline {
 	agent any
 
-	environments {
+	environment {
 		JOB_NAME = "Multi pipeline branch"
 	}
 	
